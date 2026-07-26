@@ -1,0 +1,8 @@
+pyrogram==2.0.106
+tgcrypto
+py-tgcalls==1.2.9
+yt-dlp
+motor
+python-dotenv
+apscheduler
+aiohttp
