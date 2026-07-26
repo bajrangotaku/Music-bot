@@ -1,6 +1,6 @@
-git+https://github.com/AnonXMusic/pyrogram.git
+git+https://github.com/pyrogram/pyrogram.git
 tgcrypto
-pytgcalls==3.0.0.dev24
+git+https://github.com/pytgcalls/pytgcalls.git
 yt-dlp
 motor
 python-dotenv
