@@ -1,4 +1,4 @@
-git+https://github.com/KuramathiBot/pyrogram.git
+git+https://github.com/AnonXMusic/pyrogram.git
 tgcrypto
 pytgcalls==3.0.0.dev24
 yt-dlp
