@@ -1,6 +1,6 @@
-git+https://github.com/pyrogram/pyrogram.git
+pyrogram==2.0.106
 tgcrypto
-git+https://github.com/pytgcalls/pytgcalls.git
+pytgcalls==2.2.0
 yt-dlp
 motor
 python-dotenv
