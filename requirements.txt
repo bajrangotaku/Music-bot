@@ -1,6 +1,7 @@
 pyrogram==2.0.106
 tgcrypto
-py-tgcalls==1.2.9
+pytgcalls==1.1.2
+ntgcalls==1.0.0
 yt-dlp
 motor
 python-dotenv
